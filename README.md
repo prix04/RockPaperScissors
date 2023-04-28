@@ -1,8 +1,5 @@
 # RockPaperScissors
-A traditional game of rock paper scissors from our childhood made using PYTHON
-
-
-
+# A traditional game of rock paper scissors from our childhood made using PYTHON
 
 import random
 user=input("enter a choice(rock,paper,scissors):\n")
